@@ -51,4 +51,8 @@ PAMYŁKA – гэта навукова-папулярны зін на белар
 
 П.с. Тутай мы выкладаем усе нумары (pdf-версію, і версію для самастойнага друку):
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pamylka)
+<div align="center">
+
+<a href="">[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pamylka)</a>
+
+</div>
